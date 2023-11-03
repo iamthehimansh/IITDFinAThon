@@ -1,4 +1,4 @@
-## Finathon Hackathon GitHub Repository
+## Finathon Hackathon GitHub Repository for 5G Only
 
 Welcome to the Finathon Hackathon! This is the GitHub repository dedicated to your team's project. In order to participate in the hackathon and submit your work, you'll need to follow these simple steps to push your project to this repository.
 
